@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "code_ownership", "1.39.0"
+gem "code_ownership", "2.0.0"
